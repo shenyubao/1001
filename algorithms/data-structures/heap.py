@@ -18,6 +18,10 @@ Dificuldade:
     Fácil
 Referências: (opcional)
     http://en.wikipedia.org/wiki/Binary_heap
+Comment:
+    二叉堆，同时符合完全二叉树，堆的属性
+    可以用于数据的排序，复杂度log(n)
+    http://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%89%E5%A0%86
 """
 
 class BinaryHeap:

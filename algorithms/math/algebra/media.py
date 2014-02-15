@@ -16,6 +16,8 @@ Complexidade:
     O(1)
 Dificuldade:
     facil
+Comment:
+    计算一组数字加权后的平均值
 """
 
 import math

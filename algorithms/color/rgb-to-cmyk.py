@@ -21,6 +21,10 @@ DIficuldade:
 Referências:
     http://en.wikipedia.org/wiki/RGB
     http://en.wikipedia.org/wiki/CMYK
+Comment:
+    由RGB颜色转为印刷用的CMYK
+    http://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F
+    http://zh.wikipedia.org/wiki/%E5%8D%B0%E5%88%B7%E5%9B%9B%E5%88%86%E8%89%B2%E6%A8%A1%E5%BC%8F
 '''
 
 def rgb2cmyk( red, green, blue ):

@@ -17,6 +17,9 @@ Complexidade:
     ?
 Referência:
     http://pt.wikipedia.org/wiki/Desarranjo
+Comment:
+    错排数计算，用于计算有几种全错的排列组合。
+    http://zh.wikipedia.org/wiki/%E9%94%99%E6%8E%92%E9%97%AE%E9%A2%98
 """
 
 from __future__ import division

@@ -15,6 +15,8 @@ Complexidade:
     0(1)
 Dificuldade:
     facil
+Comment:
+    计算普通的平均值
 """
 
 from __future__ import division

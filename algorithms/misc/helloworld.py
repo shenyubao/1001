@@ -12,6 +12,8 @@ Complexidade:
     O(1)
 Dificuldade:
     facil
+Comment:
+    ...
 """
 
 print "Hello world"

@@ -15,7 +15,9 @@ Dificuldade:
     facil
 Referências:
     http://pt.wikipedia.org/wiki/Ano_bissexto#Calend.C3.A1rio_Gregoriano
-
+Comment:
+    判断是否闰年
+    http://zh.wikipedia.org/wiki/%E9%97%B0%E5%B9%B4
 """
 
 from datetime import datetime

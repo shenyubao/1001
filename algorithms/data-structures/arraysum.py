@@ -14,6 +14,8 @@ Dificuldade:
     facil
 Licenca:
     GPL
+Comment:
+    简单的数组求和，Lambda表达式挺灵活
 '''
 
 def arraysum(l, key = lambda a, b: a + b):

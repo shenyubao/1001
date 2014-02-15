@@ -19,8 +19,13 @@ Dificuldade:
     facil
 Referências:
     http://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar
+Comment:
+    凯撒密码
+    http://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC
 Licenca:
     GPL
+Comment:
+    数组求和
 """
 
 __authors__ = (
